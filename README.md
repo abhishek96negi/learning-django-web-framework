@@ -16,3 +16,4 @@
 14. [Cache](/docs/Cache.ipynb)
 15. [Signals](/docs/Signals.ipynb)
 16. [Middleware](/docs/Middleware.ipynb)
+17. [QuerySet API](/docs/QuerySet API.ipynb)
