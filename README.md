@@ -18,4 +18,4 @@
 16. [Middleware](/docs/Middleware.ipynb)
 17. [QuerySet API](/docs/QuerySet%20API.ipynb)
 18. [Model Inheritance](/docs/Model%20Inheritance.ipynb)
-
+19. [Model Manager](/docs/Model%Manager.ipynb)
