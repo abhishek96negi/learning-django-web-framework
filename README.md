@@ -19,4 +19,4 @@
 17. [QuerySet API](/docs/QuerySet%20API.ipynb)
 18. [Model Inheritance](/docs/Model%20Inheritance.ipynb)
 19. [Model Manager](/docs/Model%20Manager.ipynb)
-20. [Model Relationship](/docs/Model%Relationship.ipynb)
+20. [Model Relationship](/docs/Model%20Relationship.ipynb)
