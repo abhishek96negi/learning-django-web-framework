@@ -11,5 +11,6 @@
 9. [Model Form](/docs/Model%20Form.ipynb)
 10. [Message Framework](/docs/Message%20Framework.ipynb)
 11. [Authentication Authorization](/docs/Authentication%20Authorization.ipynb)
+12. [Cookies](/docs/Cookies.ipynb)
 
 
