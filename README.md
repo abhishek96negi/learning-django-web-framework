@@ -20,3 +20,4 @@
 18. [Model Inheritance](/docs/Model%20Inheritance.ipynb)
 19. [Model Manager](/docs/Model%20Manager.ipynb)
 20. [Model Relationship](/docs/Model%20Relationship.ipynb)
+21. [Class Based View](/docs/Class%20Based%20View.ipynb)
