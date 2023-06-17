@@ -15,3 +15,4 @@
 13. [Session](/docs/Session.ipynb)
 14. [Cache](/docs/Cache.ipynb)
 15. [Signals](/docs/Signals.ipynb)
+16. [Middleware](/docs/Middleware.ipynb)
