@@ -17,3 +17,5 @@
 15. [Signals](/docs/Signals.ipynb)
 16. [Middleware](/docs/Middleware.ipynb)
 17. [QuerySet API](/docs/QuerySet%20API.ipynb)
+18. [Model Inheritance](/docs/Model%20Inheritance.ipynb)
+
