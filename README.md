@@ -9,3 +9,5 @@
 7. [Object Relation Mapper](/docs/Object%20Relation%20Mapper.ipynb)
 8. [QuerySet](/docs/QuerySet.ipynb)
 9. [Model Form](/docs/Model%20Form.ipynb)
+10. [Message Framework](/docs/Message%20Framework.ipynb)
+
