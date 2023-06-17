@@ -13,6 +13,4 @@
 11. [Authentication Authorization](/docs/Authentication%20Authorization.ipynb)
 12. [Cookies](/docs/Cookies.ipynb)
 13. [Session](/docs/Session.ipynb)
-
-
-
+14. [Cache](/docs/Cache.ipynb)
